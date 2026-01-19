@@ -45,7 +45,7 @@
 <h3>📊 Overall Stats</h3>
 
 <div align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=avieira-dev&show_icons=true&bg_color=0D1117&hide_border=false&border_color=0E4D85&title_color=0E4D85&icon_color=0E4D85&text_color=ffffff"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=avieira-dev&show_icons=true&bg_color=0D1117&hide_border=false&border_color=FFFFFF&title_color=FFFFFF&icon_color=FFFFFF&text_color=ffffff"/>
 </div>
 
 ---
@@ -53,11 +53,11 @@
 <h3>🛠️ Most Used Languages</h3>
 
 <div align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avieira-dev&layout=compact&langs_count=7&bg_color=0D1117&hide_border=false&border_color=0E4D85&title_color=0E4D85&text_color=ffffff"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avieira-dev&layout=compact&langs_count=7&bg_color=0D1117&hide_border=false&border_color=FFFFFF&title_color=FFFFFF&text_color=ffffff"/>
 </div>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0E4D85&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=808080&height=100&section=footer" />
 </p>
