@@ -21,11 +21,12 @@
 
 ---
 
-<h3>💻 Programming Languages and Tech Stack</h2>
+<h3>💻 Programming Languages and Tech Stack</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="C logo" title="Language C" style="margin-right:20px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="C++ logo" title="CPP" style="margin-right:20px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aarch64/aarch64-original.svg" height="30" alt="Assembly logo" title="Assembly" style="margin-right:20px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" title="Python" style="margin-right:20px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" title="Java" style="margin-right:20px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo" title="Spring Boot" style="margin-right:20px"/>
@@ -59,5 +60,5 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=808080&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=808080&height=100&section=footer"/>
 </p>
