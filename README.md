@@ -12,10 +12,10 @@
 
 <p align="center">
     <a href="#">
-    <img src="https://img.shields.io/badge/-LINKEDIN-0E4D85?style=for-the-badge">
+    <img src="https://img.shields.io/badge/-LINKEDIN-0583F2?style=for-the-badge">
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/-WEBSITE-0E4D85?style=for-the-badge">
+    <img src="https://img.shields.io/badge/-WEBSITE-0583F2?style=for-the-badge">
   </a>
 </p>
 
@@ -33,20 +33,20 @@
 
 <h3>📊 Overall Stats</h3>
 
-<div align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=avieira-dev&show_icons=true&bg_color=0D1117&hide_border=false&border_color=FFFFFF&title_color=FFFFFF&icon_color=FFFFFF&text_color=ffffff"/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=avieira-dev&show_icons=true&bg_color=00000000&hide_border=true&title_color=0583F2&icon_color=0583F2&text_color=ffffff&card_width=500" />
 </div>
 
 ---
 
 <h3>🛠️ Most Used Languages</h3>
 
-<div align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avieira-dev&layout=compact&langs_count=7&bg_color=0D1117&hide_border=false&border_color=FFFFFF&title_color=FFFFFF&text_color=ffffff"/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avieira-dev&layout=compact&langs_count=7&bg_color=00000000&hide_border=true&title_color=0583F2&text_color=ffffff&card_width=500" />
 </div>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=808080&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0583F2&height=100&section=footer"/>
 </p>
