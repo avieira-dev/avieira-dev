@@ -42,7 +42,7 @@
 <h3 style="color:#ffffff; font-size:15px; font-weight:700">🔥 GitHub Activity</h3>
 
 <p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=avieira-dev&theme=tokyonight" width="80%" style="max-width: 800px;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=avieira-dev&show_icons=true&theme=tokyonight&title_color=6B9DF2&text_color=ffffff&icon_color=6B9DF2&hide_border=true&border_radius=10" width="80%" style="max-width: 800px;" alt="Activity Stats"/>
 </p>
 
 <p align="center">
