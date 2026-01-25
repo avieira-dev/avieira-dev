@@ -19,7 +19,7 @@
 
 <h3 style="color:#ffffff; font-size:15px; font-weight:700">💻 Programming Languages and Tech Stack</h3>
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,py,java,spring,nodejs,mysql,postgres,cmake,git,github,linux&theme=dark"/>
   </a>
@@ -29,20 +29,20 @@
 
 <h3 style="color:#ffffff; font-size:15px; font-weight:700">📊 System Analytics (Real-time)</h3>
 
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=avieira-dev&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" width="60%" alt="Alexandre Vieira's GitHub Stats"/>
+<p align="left">
+    <img src="https://github-readme-stats.vercel.app/api?username=avieira-dev&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" width="100%" style="max-width: 500px;" alt="Alexandre Vieira's GitHub Stats"/>
 </p>
 
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avieira-dev&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" width="60%" alt="Most Used Languages"/>
+<p align="left">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avieira-dev&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" width="100%" style="max-width: 500px;" alt="Most Used Languages"/>
 </p>
 
 ---
 
 <h3 style="color:#ffffff; font-size:15px; font-weight:700">🔥 GitHub Activity</h3>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=avieira-dev&theme=tokyonight" width="100%"/>
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=avieira-dev&theme=tokyonight" width="100%" style="max-width: 800px;"/>
 </p>
 
 <p align="center">
