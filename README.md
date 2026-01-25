@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1A1B27&height=260&section=header&text=Hello, I'm Alexandre Vieira 👋&fontSize=40&animation=fadeIn&fontColor=6B9DF2&desc=Backend Developer&descSize=20&descAlignY=65"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1A1B27&height=260&section=header&text=Hello%20I%27m%20Alexandre%20Vieira&fontSize=40&animation=fadeIn&fontColor=6B9DF2&desc=Backend%20Developer&descSize=20&descAlignY=65"/>
 </p>
 
 <p align="center">
@@ -35,10 +35,6 @@
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avieira-dev&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" width="60%" alt="Most Used Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=avieira-dev&theme=tokyonight&hide_border=true&border_radius=10" width="60%" alt="Streak stats"/>
 </p>
 
 ---
