@@ -21,7 +21,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,py,java,spring,nodejs,mysql,postgres,cmake,git,github,linux&theme=dark"/>
+    <img src="https://skillicons.dev/icons?i=c,cpp,py,java,spring,nodejs,mysql,postgres,cmake,git,github,docker,linux&theme=dark"/>
   </a>
 </p>
 
@@ -39,7 +39,7 @@
 <h3 style="color:#ffffff; font-size:14px; font-weight:700">🔥 GitHub Activity</h3>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=avieira-dev&show_icons=true&bg_color=00000000&title_color=88ABA5&text_color=ffffff&icon_color=88ABA5&hide_border=true&border_radius=10" width="60%" style="max-width: 60%;" alt="Activity Stats"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=avieira-dev&bg_color=00000000&color=88ABA5&line=88ABA5&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph"/>
 </p>
 
 <p align="center">
