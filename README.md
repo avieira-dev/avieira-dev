@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=88ABA5&height=260&section=header&text=Hello%20I%27m%20Alexandre%20Vieira&fontSize=55&animation=fadeIn&fontColor=ffffff"/>
 </p>
 
-<p align="center" style="font-size: 18px; font-weight:600;">Backend Developer</p>
+<p align="center" style="font-size: 18px; font-weight:600;">Systems & Backend Developer</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/alexandre-vieira-7927a726a" target="_blank">
@@ -15,8 +15,9 @@
 <br>
 
 <p align="center" style="color:#ffffff; font-size:13px; line-height: 1.6;">
-    I'm a Computer Engineering student focused on Software Engineering, building efficient, <br> 
-    scalable systems and turning real-world challenges into well-designed digital solutions.
+    Computer Engineering student focused on performance, scalability, and system design,<br>
+    building software from high-level backend services down to low-level systems <br>
+    such as operating systems, computer graphics, and firmware.
 </p>
 
 <br>
