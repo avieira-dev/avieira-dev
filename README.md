@@ -2,7 +2,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=88ABA5&height=260&section=header&text=Hello%20I%27m%20Alexandre%20Vieira&fontSize=55&animation=fadeIn&fontColor=ffffff"/>
 </p>
 
-<p align="center" style="font-size: 18px; font-weight:600;">Systems & Backend Developer</p>
+<p align="center" style="font-size: 18px; font-weight:600;">
+Systems Programmer • Computer Graphics
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/alexandre-vieira-7927a726a" target="_blank">
@@ -15,9 +17,9 @@
 <br>
 
 <p align="center" style="color:#ffffff; font-size:13px; line-height: 1.6;">
-    Computer Engineering student focused on performance, scalability, and system design,<br>
-    building software from high-level backend services down to low-level systems <br>
-    such as operating systems, computer graphics, and firmware.
+    Computer Engineering student interested in performance, scalability, and system design,<br>
+    building software across the stack from backend systems to computer graphics<br>
+    and high-performance applications. 
 </p>
 
 <br>
@@ -43,7 +45,8 @@
 <br>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Backend%20Development-88ABA5?style=for-the-badge&logo=java&logoColor=white" alt="Java Focus"/>
+  <img src="https://img.shields.io/badge/Focus-Systems%20Programming-88ABA5?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Focus-Computer%20Graphics-88ABA5?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 </p>
 
 <p align="center">
