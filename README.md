@@ -46,7 +46,7 @@ Systems Programmer • Computer Graphics
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Systems%20Programming-88ABA5?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Focus-Computer%20Graphics-88ABA5?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Focus-Computer%20Graphics-88ABA5?style=for-the-badge&logo=opengl&logoColor=white"/>
 </p>
 
 <p align="center">
