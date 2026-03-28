@@ -1,62 +1,51 @@
 <p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=88ABA5&height=260&section=header&text=Hello%20I%27m%20Alexandre%20Vieira&fontSize=55&animation=fadeIn&fontColor=ffffff"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=5E5E5E&height=260&section=header&text=Hello%20I%27m%20Alexandre%20Vieira&fontSize=55&animation=fadeIn&fontColor=ffffff"/>
 </p>
 
 <p align="center" style="font-size: 18px; font-weight:600;">
-    Computer Graphics • Systems Programmer
+    Game Engine & Graphics Systems
 </p>
 
 <p align="center">
     <a href="https://www.linkedin.com/in/alexandre-vieira-7927a726a" target="_blank">
-        <img src="https://img.shields.io/badge/LINKEDIN-88ABA5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/>
+        <img src="https://img.shields.io/badge/LINKEDIN-5E5E5E?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/>
     </a>
 </p>
 
 ---
-
-<br>
 
 <p align="center" style="color:#ffffff; font-size:13px; line-height: 1.6;">
-    Computer Engineering student interested in performance, scalability, and system design,<br>
-    building software across the stack from backend systems to computer graphics<br>
-    and high-performance applications. 
-</p>
-
-<br>
-
----
-
-<h3 align="left" style="color:#ffffff; font-size:14px; font-weight:700">💻 | Programming Languages and Tech Stack</h3>
-
-<p align="left"><b>Main</b></p>
-<p align="left">
-    <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=c,cpp,rust,cs,py,cmake,git,github,linux,blender&theme=dark"/>
-    </a>
-</p>
-
-<p align="left"><b>Extra Knowledge</b></p>
-<p align="left">
-    <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=java,spring,nodejs,mysql,postgres,mongodb,docker&theme=dark"/>
-    </a>
+    Computer Engineering student focused on low-level systems, game engine architecture,<br>
+    and real-time rendering, building performance-critical software with emphasis on memory,<br>
+    scalability, and graphics programming.
 </p>
 
 ---
 
-<h3 align="left" style="color:#ffffff; font-size:14px; font-weight:700">📈 | GitHub Activity</h3>
-
-<p align="left">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=avieira-dev&bg_color=00000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph"/>
-</p>
-
-<br>
+<h3 align="left" style="color:#ffffff; font-size:14px; font-weight:700">💻 Core Technologies</h3>
 
 <p align="center">
-    <img src="https://img.shields.io/badge/Focus-Computer%20Graphics-88ABA5?style=for-the-badge&logo=opengl&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Focus-Systems%20Programming-88ABA5?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+    <img src="assets/icons/language-c.svg" width="50" style="margin:5px;" title="C language" alt="C"/>
+    <img src="assets/icons/cpp.svg" width="50" style="margin:5px;" title="C++" alt="C++"/>
+    <img src="assets/icons/python.svg" width="50" style="margin:5px;" title="Python" alt="Python"/>
+    <img src="assets/icons/cmake.svg" width="50" style="margin:5px;" title="CMake (build system)" alt="CMake"/>
+    <img src="assets/icons/git.svg" width="50" style="margin:5px;" title="Git (version control)" alt="Git"/>
+    <img src="assets/icons/github.svg" width="50" style="margin:5px;" title="GitHub" alt="GitHub"/>
+    <img src="assets/icons/linux.svg" width="50" style="margin:5px;" title="Linux" alt="Linux"/>
+    <img src="assets/icons/blender.svg" width="50" style="margin:5px;" title="Blender (3D modeling)" alt="Blender"/>
+    <img src="assets/icons/opengl.svg" width="50" style="margin:5px;" title="OpenGL (graphics API)" alt="OpenGL"/>
 </p>
 
+---
+
+<h3 align="left" style="color:#ffffff; font-size:14px; font-weight:700">🚧 Current Focus</h3>
+
+<ul>
+    <li>Building a custom game engine</li>
+    <li>Studying rendering pipelines and low-level systems</li>
+    <li>Exploring ECS and memory management</li>
+</ul>
+
 <p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=88ABA5&height=100&section=footer&flip=true" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=5E5E5E&height=100&section=footer&flip=true" />
 </p>
