@@ -38,6 +38,16 @@
 
 ---
 
+<h3 align="left" style="color:#ffffff; font-size:14px; font-weight:700">🧭 Technical Foundation</h3>
+
+<ul>
+    <li>Backend systems (Java, Spring)</li>
+    <li>Data structures and low-level programming in C</li>
+    <li>Transitioning into game engine development and real-time rendering</li>
+</ul>
+
+---
+
 <h3 align="left" style="color:#ffffff; font-size:14px; font-weight:700">🚧 Current Focus</h3>
 
 <ul>
