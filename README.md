@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=799CBB&height=260&section=header&text=Hello%20I%27m%20Alexandre%20Vieira&fontSize=55&animation=fadeIn&fontColor=ffffff"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=454545&height=260&section=header&text=Hello%20I%27m%20Alexandre%20Vieira&fontSize=55&animation=fadeIn&fontColor=ffffff"/>
 </p>
 
 <p align="center" style="color: #ffffff; font-size: 20px; font-weight:900;">
@@ -8,7 +8,7 @@
 
 <p align="center">
     <a href="https://www.linkedin.com/in/alexandre-vieira-7927a726a" target="_blank">
-        <img src="https://img.shields.io/badge/LINKEDIN-799CBB?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/>
+        <img src="https://img.shields.io/badge/LINKEDIN-454545?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/>
     </a>
 </p>
 
@@ -57,5 +57,5 @@
 </ul>
 
 <p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=799CBB&height=100&section=footer&flip=true" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=454545&height=100&section=footer&flip=true" />
 </p>
