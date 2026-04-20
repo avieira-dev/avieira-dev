@@ -34,6 +34,7 @@
     <img src="assets/icons/linux.svg" width="50" style="margin:5px;" title="Linux" alt="Linux"/>
     <img src="assets/icons/blender.svg" width="50" style="margin:5px;" title="Blender (3D modeling)" alt="Blender"/>
     <img src="assets/icons/opengl.svg" width="50" style="margin:5px;" title="OpenGL (graphics API)" alt="OpenGL"/>
+    <img src="assets/icons/vulkan.svg" width="50" style="margin:5px;" title="Vulkan (graphics API)" alt="OpenGL"/>
 </p>
 
 ---
