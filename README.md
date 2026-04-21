@@ -22,9 +22,9 @@
 
 ---
 
-<h3 align="center" style="color:#ffffff; font-size:14px; font-weight:700">💻 Core Technologies</h3>
+<h3 align="left" style="color:#ffffff; font-size:14px; font-weight:700">💻 Core Technologies</h3>
 
-<p align="center">
+<p align="left">
     <img src="assets/icons/language-c.svg" width="50" style="margin:5px;" title="C language" alt="C"/>
     <img src="assets/icons/cpp.svg" width="50" style="margin:5px;" title="C++" alt="C++"/>
     <img src="assets/icons/python.svg" width="50" style="margin:5px;" title="Python" alt="Python"/>
@@ -39,22 +39,21 @@
 
 ---
 
-<h3 align="center" style="color:#ffffff; font-size:14px; font-weight:700">🧭 Technical Foundation</h3>
+<h3 align="left" style="color:#ffffff; font-size:14px; font-weight:700">🧭 Technical Foundation</h3>
 
 <ul style="color:#ffffff; font-size:13px; line-height: 1.6;">
-    <li>Backend systems (Java, Spring)</li>
     <li>Data structures and low-level programming in C</li>
-    <li>Transitioning into game engine development and real-time rendering</li>
+    <li>Backend systems (Java, Spring Boot)</li>
 </ul>
 
 ---
 
-<h3 align="center" style="color:#ffffff; font-size:14px; font-weight:700">🚧 Current Focus</h3>
+<h3 align="left" style="color:#ffffff; font-size:14px; font-weight:700">🚧 Current Focus</h3>
 
 <ul style="color:#ffffff; font-size:13px; line-height: 1.6;">
-    <li>Building a custom game engine</li>
+    <li>Building a graphical user interface library for C++</li>
     <li>Studying rendering pipelines and low-level systems</li>
-    <li>Exploring ECS and memory management</li>
+    <li>Exploring efficient memory management methods with a focus on optimization</li>
 </ul>
 
 <p align="center">
