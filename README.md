@@ -2,7 +2,7 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=454545&height=260&section=header&text=Hello%20I%27m%20Alexandre%20Vieira&fontSize=55&animation=fadeIn&fontColor=ffffff"/>
 </p>
 
-<p align="center" style="color: #ffffff; font-size: 20px; font-weight:900;">
+<p align="center" style="color: #ffffff; font-size: 24px; font-weight:900;">
     Game Engine & Graphics Systems
 </p>
 
@@ -14,7 +14,7 @@
 
 ---
 
-<p align="center" style="color:#ffffff; font-size:13px; line-height: 1.6;">
+<p align="center" style="color:#ffffff; font-size:16px; line-height: 1.6;">
     Computer Engineering student focused on low-level systems, game engine architecture,<br>
     and real-time rendering, building performance-critical software with emphasis on memory,<br>
     scalability, and graphics programming.
@@ -22,9 +22,9 @@
 
 ---
 
-<h3 align="left" style="color:#ffffff; font-size:14px; font-weight:700">💻 Core Technologies</h3>
+<h3 align="center" style="color:#ffffff; font-size:20px; font-weight:700">💻 Core Technologies</h3>
 
-<p align="left">
+<p align="center">
     <img src="assets/icons/language-c.svg" width="50" style="margin:5px;" title="C language" alt="C"/>
     <img src="assets/icons/cpp.svg" width="50" style="margin:5px;" title="C++" alt="C++"/>
     <img src="assets/icons/cmake.svg" width="50" style="margin:5px;" title="CMake (build system)" alt="CMake"/>
@@ -40,18 +40,18 @@
 
 ---
 
-<h3 align="left" style="color:#ffffff; font-size:14px; font-weight:700">🧭 Technical Foundation</h3>
+<h3 align="center" style="color:#ffffff; font-size:20px; font-weight:700">🧭 Technical Foundation</h3>
 
-<ul style="color:#ffffff; font-size:13px; line-height: 1.6;">
+<ul style="color:#ffffff; font-size:16px; line-height: 1.6;">
     <li>Data structures and low-level programming in C</li>
     <li>Backend systems (Java, Spring Boot)</li>
 </ul>
 
 ---
 
-<h3 align="left" style="color:#ffffff; font-size:14px; font-weight:700">🚧 Current Focus</h3>
+<h3 align="center" style="color:#ffffff; font-size:20px; font-weight:700">🚧 Current Focus</h3>
 
-<ul style="color:#ffffff; font-size:13px; line-height: 1.6;">
+<ul style="color:#ffffff; font-size:16px; line-height: 1.6;">
     <li>Building a graphical user interface library for C++</li>
     <li>Studying rendering pipelines and low-level systems</li>
     <li>Exploring efficient memory management methods with a focus on optimization</li>
