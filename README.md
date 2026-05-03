@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=454545&height=260&section=header&text=Hello%20I%27m%20Alexandre%20Vieira&fontSize=55&animation=fadeIn&fontColor=ffffff"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=1E1E1E&height=260&section=header&text=Hello%20I%27m%20Alexandre%20Vieira&fontSize=55&animation=fadeIn&fontColor=ffffff"/>
 </p>
 
 <p align="center" style="color: #ffffff; font-size: 24px; font-weight:900;">
@@ -25,6 +25,7 @@
 <h3 align="center" style="color:#ffffff; font-size:20px; font-weight:700">💻 Core Technologies</h3>
 
 <p align="center">
+    <img src="assets/icons/linux.svg" width="50" style="margin:5px;" title="Linux" alt="Linux"/>
     <img src="assets/icons/language-c.svg" width="50" style="margin:5px;" title="C language" alt="C"/>
     <img src="assets/icons/cpp.svg" width="50" style="margin:5px;" title="C++" alt="C++"/>
     <img src="assets/icons/cmake.svg" width="50" style="margin:5px;" title="CMake (build system)" alt="CMake"/>
@@ -35,7 +36,6 @@
     <img src="assets/icons/unreal.svg" width="50" style="margin:5px;" title="Unreal Engine" alt="Unreal"/>
     <img src="assets/icons/git.svg" width="50" style="margin:5px;" title="Git (version control)" alt="Git"/>
     <img src="assets/icons/github.svg" width="50" style="margin:5px;" title="GitHub" alt="GitHub"/>
-    <img src="assets/icons/linux.svg" width="50" style="margin:5px;" title="Linux" alt="Linux"/>
 </p>
 
 ---
@@ -58,5 +58,5 @@
 </ul>
 
 <p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=454545&height=100&section=footer&flip=true" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=1E1E1E&height=100&section=footer&flip=true" />
 </p>
