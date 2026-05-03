@@ -2,7 +2,9 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=1E1E1E&height=260&section=header&text=Hello%20I%27m%20Alexandre%20Vieira&fontSize=55&animation=fadeIn&fontColor=ffffff"/>
 </p>
 
-<h2 align="center" style="font-weight:900;">Game Engine & Graphics Systems</h2>
+<p align="center" style="font-size:22px; font-weight:900;">
+    Game Engine & Graphics Systems
+</p>
 
 <p align="center">
     <a href="https://www.linkedin.com/in/alexandre-vieira-7927a726a" target="_blank">
