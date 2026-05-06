@@ -80,12 +80,12 @@ and low-level architecture design.
 
 <h3 align="left">🎯 Current Focus</h3>
 
-```
-▸ Designing core architecture for a custom game engine
-▸ Studying memory management and data-oriented design
-▸ Building low-level systems in C / C++
-▸ Exploring rendering pipelines and GPU workflows
-``` 
+<p>
+    ▸ Designing core architecture for a custom game engine<br>
+    ▸ Studying memory management and data-oriented design<br>
+    ▸ Building low-level systems in C / C++<br>
+    ▸ Exploring rendering pipelines and GPU workflows
+</p>
 
 <p align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:454545,100:000000&height=100&section=footer&flip=true"/>
