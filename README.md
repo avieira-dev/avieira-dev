@@ -22,32 +22,12 @@ and low-level architecture design.
 
 <h3 align="left">🚀 Ongoing Projects</h3>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+## Projects
 
-<h4 align="left">Interact UI</h4>
-
-![Status](https://img.shields.io/badge/Status-Design%20Phase-555555?style=flat-square)
-
-<p>
-    Immediate mode GUI library for <strong>C++</strong>, designed for engine tools and editors. Prioritizes minimal overhead and direct control over rendering state.
-</p>
-
-</td>
-<td width="50%" valign="top">
-
-<h4 align="left">Ptah Engine</h4>
-
-![Status](https://img.shields.io/badge/Status-Planning%20Phase-555555?style=flat-square)
-
-<p>
-    Custom game engine built from scratch in <strong>C++</strong>, focused on performance, modular architecture, and low-level control over every system layer.
-</p>
-
-</td>
-</tr>
-</table>
+| Project | Status | Description |
+|---------|---------|-------------|
+| **Interact UI** | `Design Phase` | Immediate mode GUI library for **C++**, designed for engine tools and editors. Prioritizes minimal overhead and direct control over rendering state. |
+| **Ptah Engine** | `Planning Phase` | Custom game engine built from scratch in **C++**, focused on performance, modular architecture, and low-level control over every system layer. |
 
 ---
 
