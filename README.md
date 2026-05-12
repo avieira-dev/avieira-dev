@@ -5,6 +5,10 @@
 <h3 align="center"><strong>Game Engine & Graphics Systems</strong></h3>
 
 <p align="center">
+    C • C++ • OpenGL • Vulkan • Linux
+</p>
+
+<p align="center">
     <a href="https://www.linkedin.com/in/alexandre-vieira-7927a726a" target="_blank">
         <img src="https://img.shields.io/badge/LINKEDIN-1E1E1E?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/>
     </a>
@@ -20,13 +24,26 @@ and low-level architecture design.
 
 ---
 
-<h3 align="left">🚀 Ongoing Projects</h3>
+<h3 align="left">🧠 Core Interests</h3>
 
-## Projects
+<p align="left">
+    ▸ Game Engine Architecture<br>
+    ▸ Rendering Pipelines<br>
+    ▸ Immediate Mode UI<br>
+    ▸ Data-Oriented Design<br>
+    ▸ Graphics Programming<br>
+    ▸ Systems Programming
+</p>
+
+---
+
+<h3 align="left">🚀 Core Systems</h3>
 
 | Project | Status | Description |
 |---------|---------|-------------|
-| **Interact UI** | `Design Phase` | Immediate mode GUI library for **C++**, designed for engine tools and editors. Prioritizes minimal overhead and direct control over rendering state. |
+| **AtlasDS** | `Development Phase` | Collection of fundamental data structures implemented in pure **C**, focused on performance, memory awareness, and reusable low-level abstractions. |
+| **Software Rasterizer** | `Research & Development` | CPU-based software rasterizer written in modern **C++**, exploring rendering pipelines, triangle rasterization, transformations, and graphics fundamentals. |
+| **InteractUI** | `Design Phase` | Immediate mode GUI library for **C++**, designed for engine tools and editors. Prioritizes minimal overhead and direct control over rendering state. |
 | **Ptah Engine** | `Planning Phase` | Custom game engine built from scratch in **C++**, focused on performance, modular architecture, and low-level control over every system layer. |
 
 ---
@@ -50,8 +67,6 @@ and low-level architecture design.
 <h4 align="left">Tools & Workflow</h4>
 <p align="left">
     <img src="assets/icons/python.svg" width="60" title="Python" alt="Python" style="margin-right: 5px"/>
-    <img src="assets/icons/blender.svg" width="60" title="Blender (3D modeling)" alt="Blender (3D modeling)" style="margin-right: 5px"/>
-    <img src="assets/icons/unreal.svg" width="60" title="Unreal Engine" alt="Unreal Engine" style="margin-right: 5px"/>
     <img src="assets/icons/git.svg" width="60" title="Git (version control)" alt="Git (version control)" style="margin-right: 5px"/>
     <img src="assets/icons/github.svg" width="60" title="GitHub" alt="GitHub" style="margin-right: 5px"/>
 </p>
