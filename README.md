@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/alexandre-vieira-7927a726a" target="_blank">
+    <a href="https://www.linkedin.com/in/avieira-dev" target="_blank">
         <img src="https://img.shields.io/badge/LINKEDIN-1E1E1E?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/>
     </a>
 </p>
