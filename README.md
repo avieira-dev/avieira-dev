@@ -20,8 +20,6 @@
     </a>
 </p>
 
-<br/>
-
 ---
 
 <h3 align="left">🧠 Engineering Focus</h3>
