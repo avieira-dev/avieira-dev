@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-    <strong><em>Not a user of engines — a builder of them.</em></strong>
+    <strong><em>Creating engines, not just using them!</em></strong>
 </p>
 
 <p align="center">
