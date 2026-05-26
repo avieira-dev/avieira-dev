@@ -2,49 +2,57 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:454545&height=260&section=header&text=Alexandre%20Vieira&fontSize=55&animation=fadeIn&fontColor=ffffff"/>
 </p>
 
-<h3 align="center"><strong>Game Engine & Graphics Systems</strong></h3>
+<h2 align="center"><strong>Game Engine & Graphics Systems</strong></h2>
 
 <p align="center">
     C • C++ • OpenGL • Vulkan • Linux
 </p>
 
 <p align="center">
+    <strong><em>Not a user of engines — a builder of them.</em></strong>
+</p>
+
+<p align="center">
     <a href="https://www.linkedin.com/in/avieira-dev" target="_blank">
-        <img src="https://img.shields.io/badge/LINKEDIN-1E1E1E?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/>
+        <img src="https://img.shields.io/badge/LinkedIn-1E1E1E?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/>
     </a>
 </p>
 
 <br/>
 
 <p align="center">
-Focused on building performance-critical systems for game engines,<br>
-with emphasis on memory management, rendering pipelines,<br>
-and low-level architecture design.
+    Focused on building performance-critical systems for game engines,<br>
+    with an emphasis on memory management, rendering pipelines,<br>
+    and low-level architecture design.
 </p>
+
+<br/>
 
 ---
 
-<h3 align="left">🧠 Core Interests</h3>
+<h3 align="left">🧠 Core Focus & Interests</h3>
 
 <p align="left">
-    ▸ Game Engine Architecture<br>
-    ▸ Rendering Pipelines<br>
-    ▸ Immediate Mode UI<br>
-    ▸ Data-Oriented Design<br>
-    ▸ Graphics Programming<br>
-    ▸ Systems Programming
+    ▸ <strong>Game Engine Architecture</strong> — Designing custom, modular engine layers from scratch.<br>
+    ▸ <strong>Graphics Programming</strong> — High-performance rendering pipelines with OpenGL and Vulkan.<br>
+    ▸ <strong>Low-Level Systems</strong> — Memory management, custom data structures, and CPU/GPU workflows.<br>
+    ▸ <strong>Data-Oriented Design</strong> — Writing cache-friendly, performance-critical code in C and C++.<br>
+    ▸ <strong>Tooling & UI</strong> — Developing immediate mode GUI libraries for internal engine tools.
 </p>
 
 ---
 
-<h3 align="left">🚀 Core Systems</h3>
+<h3 align="left">🚀 Core Systems & Projects</h3>
 
 | Project | Status | Description |
-|---------|---------|-------------|
-| **AtlasDS** | `Development Phase` | Collection of fundamental data structures implemented in pure **C**, focused on performance, memory awareness, and reusable low-level abstractions. |
-| **Software Rasterizer** | `Research & Development` | CPU-based software rasterizer written in modern **C++**, exploring rendering pipelines, triangle rasterization, transformations, and graphics fundamentals. |
-| **InteractUI** | `Design Phase` | Immediate mode GUI library for **C++**, designed for engine tools and editors. Prioritizes minimal overhead and direct control over rendering state. |
-| **Ptah Engine** | `Planning Phase` | Custom game engine built from scratch in **C++**, focused on performance, modular architecture, and low-level control over every system layer. |
+|---------|--------|-------------|
+| [**AtlasDS**](https://github.com/avieira-dev/atlas-ds.git) | <img src="https://img.shields.io/badge/Development-F2C94C?style=flat-square&logoColor=black" alt="Development"/> | Collection of fundamental data structures implemented in pure **C**, focused on performance, memory awareness, and reusable low-level abstractions. |
+| [**Software Rasterizer**](https://github.com/avieira-dev/software-rasterizer.git) | <img src="https://img.shields.io/badge/R&D-9B51E0?style=flat-square&logoColor=white" alt="R&D"/> | CPU-based software rasterizer written in modern **C++**, exploring rendering pipelines, triangle rasterization, transformations, and graphics fundamentals. |
+| [**InteractUI**](#) | <img src="https://img.shields.io/badge/Design_Phase-2D9CDB?style=flat-square&logoColor=white" alt="Design"/> | Immediate mode GUI library for **C++**, designed for engine tools and editors. Prioritizes minimal overhead and direct control over rendering state. |
+| [**Ptah Engine**](#) | <img src="https://img.shields.io/badge/Planning-BB6BD9?style=flat-square&logoColor=white" alt="Planning"/> | Custom game engine built from scratch in **C++**, focused on performance, modular architecture, and low-level control over every system layer. |
+
+> [!NOTE]  
+> Clicking on the projects above will take you to their respective repositories.
 
 ---
 
@@ -73,13 +81,12 @@ and low-level architecture design.
 
 ---
 
-<h3 align="left">🎯 Current Focus</h3>
+<h3 align="left">🎮 Contribution Graph</h3>
 
-<p>
-    ▸ Designing core architecture for a custom game engine<br>
-    ▸ Studying memory management and data-oriented design<br>
-    ▸ Building low-level systems in C / C++<br>
-    ▸ Exploring rendering pipelines and GPU workflows
+<p align="center">
+  <div align="center" style="background-color: #0d1117; border: 1px solid #454545; border-radius: 6px; padding: 20px; max-width: fit-content; margin: 0 auto;">
+    <img src="https://raw.githubusercontent.com/avieira-dev/avieira-dev/output/github-contribution-grid-snake-dark.svg" alt="GitHub Streak Snake" />
+  </div>
 </p>
 
 <p align="center">
