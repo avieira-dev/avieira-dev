@@ -82,9 +82,9 @@
 
 <h3 align="left">🎮 Activity</h3>
 
-<div align="center" style="background-color: #0d1117; border: 1px solid #454545; border-radius: 6px; padding: 5px; max-width: fit-content; margin: 0 auto;">
-    <img src="https://raw.githubusercontent.com/avieira-dev/avieira-dev/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
-</div>
+<p align="center">
+    <img src="https://raw.githubusercontent.com/avieira-dev/avieira-dev/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
 <p align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:454545,100:000000&height=100&section=footer&flip=true"/>
