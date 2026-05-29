@@ -74,6 +74,7 @@
 <h4 align="left">Tools & Workflow</h4>
 <p align="left">
     <img src="assets/icons/python.svg" width="60" title="Python" alt="Python" style="margin-right: 5px"/>
+    <img src="assets/icons/docker.svg" width="60" title="Docker" alt="Docker" style="margin-right: 5px"/>
     <img src="assets/icons/git.svg" width="60" title="Git (version control)" alt="Git (version control)" style="margin-right: 5px"/>
     <img src="assets/icons/github.svg" width="60" title="GitHub" alt="GitHub" style="margin-right: 5px"/>
 </p>
