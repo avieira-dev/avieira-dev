@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:454545&height=260&section=header&text=Alexandre%20Vieira&fontSize=55&animation=fadeIn&fontColor=ffffff"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5ce1e6,100:8c52ff&height=260&section=header&text=Alexandre%20Vieira&fontSize=55&animation=fadeIn&fontColor=ffffff"/>
 </p>
 
 <h2 align="center"><strong>Game Engine & Graphics Systems</strong></h2>
@@ -16,7 +16,7 @@
 
 <p align="center">
     <a href="https://www.linkedin.com/in/avieira-dev" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-1E1E1E?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/>
+        <img src="https://img.shields.io/badge/LinkedIn-8c52ff?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/>
     </a>
 </p>
 
@@ -87,5 +87,5 @@
 </p>
 
 <p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:454545,100:000000&height=100&section=footer&flip=true"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8c52ff,100:5ce1e6&height=100&section=footer&flip=true"/>
 </p>
