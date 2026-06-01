@@ -79,14 +79,6 @@
     <img src="assets/icons/github.svg" width="60" title="GitHub" alt="GitHub" style="margin-right: 5px"/>
 </p>
 
----
-
-<h3 align="left">🎮 Activity</h3>
-
-<p align="center">
-    <img src="https://raw.githubusercontent.com/avieira-dev/avieira-dev/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
 <p align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8c52ff,100:5ce1e6&height=100&section=footer&flip=true"/>
 </p>
