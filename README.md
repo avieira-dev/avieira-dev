@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-    <em>"Creating engines, not just using them."</em><br><br>
+    <em>"Engineering the systems behind interactive experiences."</em><br><br>
     Building performance-critical systems for game engines.<br>
     Focused on memory management, rendering pipelines and low-level architecture design.
 </p>
@@ -39,6 +39,12 @@
 
 ---
 
+<h3 align=left>🎯 Long-Term Goal</h3>
+
+> Design and develop a complete proprietary game engine from scratch, including rendering, physics, tooling, asset pipeline and runtime systems.
+
+---
+
 <h3 align="left">🚀 Projects</h3>
 
 | Project | Status | Description |
@@ -46,7 +52,7 @@
 | [**AtlasDS**](https://github.com/avieira-dev/atlas-ds.git) | 🟠 | Collection of fundamental data structures implemented in pure **C**, focused on performance, memory awareness, and reusable low-level abstractions. |
 | [**Software Rasterizer**](https://github.com/avieira-dev/software-rasterizer.git) | 🟣 | CPU-based software rasterizer written in modern **C++**, exploring rendering pipelines, triangle rasterization, transformations, and graphics fundamentals. |
 | **InteractUI** *(Private)* | 🟢 | Immediate mode GUI library for **C++**, designed for engine tools and editors. Prioritizes minimal overhead and direct control over rendering state. |
-| **Ptah** *(Private)* | 🔵 | Custom game engine built from scratch in **C++**, focused on performance, modularity, and low-level engine architecture. |
+| **Ptah** *(Private)* | 🔵 | Proprietary game engine focused on modular architecture, custom tooling, rendering systems and full control over the development pipeline. |
 
 > 🟠 Development • 🟣 Research & Development • 🟢 Design Phase • 🔵 Planning
 
@@ -77,7 +83,6 @@
 <h4 align="left">Tools & Workflow</h4>
 <p align="left">
     <img src="assets/icons/python.svg" width="60" title="Python" alt="Python" style="margin-right: 5px"/>
-    <img src="assets/icons/docker.svg" width="60" title="Docker" alt="Docker" style="margin-right: 5px"/>
     <img src="assets/icons/git.svg" width="60" title="Git (version control)" alt="Git (version control)" style="margin-right: 5px"/>
     <img src="assets/icons/github.svg" width="60" title="GitHub" alt="GitHub" style="margin-right: 5px"/>
 </p>
