@@ -39,9 +39,9 @@
 
 ---
 
-<h3 align=left>🎯 Long-Term Goal</h3>
+<h3 align="left">🎯 Long-Term Goal</h3>
 
-> Design and develop a complete proprietary game engine from scratch, including rendering, physics, tooling, asset pipeline and runtime systems.
+Design and develop a complete proprietary game engine from scratch, including rendering, physics, tooling, asset pipeline and runtime systems.
 
 ---
 
@@ -54,7 +54,7 @@
 | **InteractUI** *(Private)* | 🟢 | Immediate mode GUI library for **C++**, designed for engine tools and editors. Prioritizes minimal overhead and direct control over rendering state. |
 | **Ptah** *(Private)* | 🔵 | Proprietary game engine focused on modular architecture, custom tooling, rendering systems and full control over the development pipeline. |
 
-> 🟠 Development • 🟣 Research & Development • 🟢 Design Phase • 🔵 Planning
+🟠 Development • 🟣 Research & Development • 🟢 Design Phase • 🔵 Planning
 
 > [!NOTE]  
 > Available links will take you to the corresponding public repositories.
