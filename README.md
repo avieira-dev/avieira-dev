@@ -43,12 +43,12 @@
 
 | Project | Status | Description |
 |---------|:--------:|-------------|
-| [**AtlasDS**](https://github.com/avieira-dev/atlas-ds.git) | 🟨 | Collection of fundamental data structures implemented in pure **C**, focused on performance, memory awareness, and reusable low-level abstractions. |
-| [**Software Rasterizer**](https://github.com/avieira-dev/software-rasterizer.git) | 🟪 | CPU-based software rasterizer written in modern **C++**, exploring rendering pipelines, triangle rasterization, transformations, and graphics fundamentals. |
-| [**InteractUI**](#) | 🟦 | Immediate mode GUI library for **C++**, designed for engine tools and editors. Prioritizes minimal overhead and direct control over rendering state. |
-| [**Ptah Engine**](#) | ⬜ | Custom game engine built from scratch in **C++**, focused on performance, modularity, and low-level engine architecture. |
+| [**AtlasDS**](https://github.com/avieira-dev/atlas-ds.git) | 🟠 | Collection of fundamental data structures implemented in pure **C**, focused on performance, memory awareness, and reusable low-level abstractions. |
+| [**Software Rasterizer**](https://github.com/avieira-dev/software-rasterizer.git) | 🟣 | CPU-based software rasterizer written in modern **C++**, exploring rendering pipelines, triangle rasterization, transformations, and graphics fundamentals. |
+| [**InteractUI**](#) | 🟢 | Immediate mode GUI library for **C++**, designed for engine tools and editors. Prioritizes minimal overhead and direct control over rendering state. |
+| [**Ptah**](#) | 🔵 | Custom game engine built from scratch in **C++**, focused on performance, modularity, and low-level engine architecture. |
 
-> 🟨 Development • 🟪 Research & Development • 🟦 Design Phase • ⬜ Planning
+> 🟠 Development • 🟣 Research & Development • 🟢 Design Phase • 🔵 Planning
 
 > [!NOTE]  
 > Clicking on the projects above will take you to their respective repositories.
