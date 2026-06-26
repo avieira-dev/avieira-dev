@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:00ff41&height=260&section=header&text=Alexandre%20Vieira&fontSize=55&animation=fadeIn&fontColor=ffffff"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00ff41&height=260&section=header&text=Alexandre%20Vieira&fontSize=55&animation=fadeIn&fontColor=ffffff"/>
 </p>
 
 <h2 align="center"><strong>Engine Graphics Programmer</strong></h2>
@@ -16,13 +16,13 @@
 
 <p align="center">
     <a href="https://www.linkedin.com/in/avieira-dev" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-00ff41?style=for-the-badge&logo=linkedin&logoColor=000000" alt="Linkedin"/>
+        <img src="https://img.shields.io/badge/LinkedIn-00ff41?style=for-the-badge&logo=linkedin&logoColor=0d1117" alt="Linkedin"/>
     </a>
 </p>
 
 ---
 
-<h3 align="left">🧠 Engineering Focus</h3>
+<h3 align="left">Engineering Focus</h3>
 
 <ul>
     <li><strong>Real-Time Rendering Pipelines</strong><br>
@@ -41,13 +41,13 @@
 
 ---
 
-<h3 align="left">🎯 Long-Term Goal</h3>
+<h3 align="left">Long-Term Goal</h3>
 
 Build deep expertise across the full graphics stack — from kernel-space driver infrastructure to real-time rendering pipelines and shader systems. The goal is to work at the intersection of OS internals and GPU programming: developing the low-level systems that power interactive experiences, whether inside a proprietary game engine or at the driver and runtime level.
 
 ---
 
-<h3 align="left">🚀 Projects</h3>
+<h3 align="left">Projects</h3>
 
 | Project | Status | Description |
 |---------|:--------:|-------------|
@@ -67,7 +67,7 @@ Build deep expertise across the full graphics stack — from kernel-space driver
 
 ---
 
-<h3 align="left">🧩 Tech Stack</h3>
+<h3 align="left">Tech Stack</h3>
 
 <h4 align="left">Systems & Core</h4>
 <p align="left">
@@ -92,5 +92,5 @@ Build deep expertise across the full graphics stack — from kernel-space driver
 </p>
 
 <p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,100:0f0f0f&height=100&section=footer&flip=true"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,100:0d1117&height=100&section=footer&flip=true"/>
 </p>
