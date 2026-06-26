@@ -1,22 +1,22 @@
 <p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5ce1e6,100:8c52ff&height=260&section=header&text=Alexandre%20Vieira&fontSize=55&animation=fadeIn&fontColor=ffffff"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:00ff41&height=260&section=header&text=Alexandre%20Vieira&fontSize=55&animation=fadeIn&fontColor=ffffff"/>
 </p>
 
-<h2 align="center"><strong>Game Engine & Graphics Systems</strong></h2>
+<h2 align="center"><strong>Engine Graphics Programmer</strong></h2>
 
 <p align="center">
-    C • C++ • OpenGL • Vulkan • Linux
+    C • C++ • Assembly • OpenGL • Vulkan • Linux
 </p>
 
 <p align="center">
-    <em>"Engineering the systems behind interactive experiences."</em><br><br>
-    Building performance-critical systems for game engines.<br>
-    Focused on memory management, rendering pipelines and low-level architecture design.
+    <em>"From kernel to framebuffer — owning the full graphics stack."</em><br><br>
+    Building rendering pipelines, engine systems, and low-level graphics infrastructure.<br>
+    Working across the full vertical: OS internals, GPU architecture, and real-time rendering.
 </p>
 
 <p align="center">
     <a href="https://www.linkedin.com/in/avieira-dev" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-8c52ff?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/>
+        <img src="https://img.shields.io/badge/LinkedIn-00ff41?style=for-the-badge&logo=linkedin&logoColor=000000" alt="Linkedin"/>
     </a>
 </p>
 
@@ -25,23 +25,25 @@
 <h3 align="left">🧠 Engineering Focus</h3>
 
 <ul>
+    <li><strong>Real-Time Rendering Pipelines</strong><br>
+    Designing and implementing rendering systems with OpenGL and Vulkan — from draw call batching to post-processing passes.</li>
+    <li><strong>GPU Architecture & Memory</strong><br>
+    Understanding how hardware executes shaders, manages VRAM, and schedules work — including low-level Vulkan memory management.</li>
+    <li><strong>Shader Systems</strong><br>
+    Writing and structuring GLSL shader pipelines for physically-based rendering, lighting models, and engine material systems.</li>
     <li><strong>Game Engine Architecture</strong><br>
-    Designing custom, modular engine layers from scratch.</li>
-    <li><strong>Graphics Programming</strong><br>
-    High-performance rendering pipelines with OpenGL and Vulkan.</li>
-    <li><strong>Low-Level Systems</strong><br>
-    Memory management, custom data structures, and CPU/GPU workflows.</li>
+    Designing modular, performance-critical engine layers from scratch — rendering, tooling, asset pipeline and runtime systems.</li>
+    <li><strong>OS & Kernel Internals</strong><br>
+    Developing kernels in C and Assembly, with focus on memory management, interrupt handling, and hardware abstraction layers.</li>
     <li><strong>Data-Oriented Design</strong><br>
-    Writing cache-friendly, performance-critical code in C and C++.</li>
-    <li><strong>Tooling & UI</strong><br>
-    Developing immediate mode GUI libraries for internal engine tools.</li>
+    Cache-friendly, allocation-aware code for CPU/GPU workflows — minimizing overhead at the systems level.</li>
 </ul>
 
 ---
 
 <h3 align="left">🎯 Long-Term Goal</h3>
 
-Design and develop a complete proprietary game engine from scratch, including rendering, physics, tooling, asset pipeline and runtime systems.
+Build deep expertise across the full graphics stack — from kernel-space driver infrastructure to real-time rendering pipelines and shader systems. The goal is to work at the intersection of OS internals and GPU programming: developing the low-level systems that power interactive experiences, whether inside a proprietary game engine or at the driver and runtime level.
 
 ---
 
@@ -50,9 +52,10 @@ Design and develop a complete proprietary game engine from scratch, including re
 | Project | Status | Description |
 |---------|:--------:|-------------|
 | [**AtlasDS**](https://github.com/avieira-dev/atlas-ds.git) | 🟠 | Collection of fundamental data structures implemented in pure **C**, focused on performance, memory awareness, and reusable low-level abstractions. |
-| [**Software Rasterizer**](https://github.com/avieira-dev/software-rasterizer.git) | 🟣 | CPU-based software rasterizer written in modern **C++**, exploring rendering pipelines, triangle rasterization, transformations, and graphics fundamentals. |
-| **InteractUI** *(Private)* | 🟢 | Immediate mode GUI library for **C++**, designed for engine tools and editors. Prioritizes minimal overhead and direct control over rendering state. |
-| **Ptah** *(Private)* | 🔵 | Proprietary game engine focused on modular architecture, custom tooling, rendering systems and full control over the development pipeline. |
+| [**Software Rasterizer**](https://github.com/avieira-dev/software-rasterizer.git) | 🟣 | CPU-based software rasterizer written in modern **C++**, implementing triangle rasterization, perspective-correct interpolation, clipping, and the full fixed-function graphics pipeline from scratch. |
+| **Ptah** *(Private)* | 🔵 | Proprietary game engine in **C++** focused on modular architecture, custom rendering systems, immediate mode tooling, and full ownership of the development pipeline. |
+| **InteractUI** *(Private)* | 🟢 | Immediate mode GUI library for **C++**, designed for engine editors and tools. Prioritizes minimal overhead and direct control over rendering state. |
+| **Ada** *(Private)* | 🔵 | Kernel written in **C and Assembly**, named after Ada Lovelace. Explores memory management, interrupt handling, privilege rings, and hardware abstraction at the OS level. |
 
 🟠 Development • 🟣 Research & Development • 🟢 Design Phase • 🔵 Planning
 
@@ -71,6 +74,7 @@ Design and develop a complete proprietary game engine from scratch, including re
     <img src="assets/icons/linux.svg" width="60" title="Linux" alt="Linux" style="margin-right: 5px"/>
     <img src="assets/icons/language-c.svg" width="60" title="C language" alt="C language" style="margin-right: 5px"/>
     <img src="assets/icons/cpp.svg" width="60" title="C++" alt="C++" style="margin-right: 5px"/>
+    <img src="assets/icons/asm.svg" width="60" title="Assembly (x86/x86-64)" alt="Assembly" style="margin-right: 5px"/>
     <img src="assets/icons/cmake.svg" width="60" title="CMake (build system)" alt="CMake (build system)" style="margin-right: 5px"/>
 </p>
 
@@ -88,5 +92,5 @@ Design and develop a complete proprietary game engine from scratch, including re
 </p>
 
 <p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8c52ff,100:5ce1e6&height=100&section=footer&flip=true"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,100:0f0f0f&height=100&section=footer&flip=true"/>
 </p>
