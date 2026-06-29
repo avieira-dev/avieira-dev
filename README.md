@@ -50,14 +50,21 @@ Build deep expertise across the full graphics stack — from kernel-space driver
 <h3 align="left">Projects</h3>
 
 | Project | Status | Description |
-|---------|:--------:|-------------|
+|:---------|:--------:|:-------------|
 | [**AtlasDS**](https://github.com/avieira-dev/atlas-ds.git) | 🟠 | Collection of fundamental data structures implemented in pure **C**, focused on performance, memory awareness, and reusable low-level abstractions. |
 | [**Software Rasterizer**](https://github.com/avieira-dev/software-rasterizer.git) | 🟣 | CPU-based software rasterizer written in modern **C++**, implementing triangle rasterization, perspective-correct interpolation, clipping, and the full fixed-function graphics pipeline from scratch. |
 | **Ptah** *(Private)* | 🔵 | Proprietary game engine in **C++** focused on modular architecture, custom rendering systems, immediate mode tooling, and full ownership of the development pipeline. |
 | **InteractUI** *(Private)* | 🟢 | Immediate mode GUI library for **C++**, designed for engine editors and tools. Prioritizes minimal overhead and direct control over rendering state. |
 | **Ada** *(Private)* | 🔵 | Kernel written in **C and Assembly**, named after Ada Lovelace. Explores memory management, interrupt handling, privilege rings, and hardware abstraction at the OS level. |
 
-🟠 Development • 🟣 Research & Development • 🟢 Design Phase • 🔵 Planning
+<h4 align="left">Legend:</h4>
+
+| Color | Status |
+|:-------|:--------|
+| 🟠 | Development |
+| 🟣 | Research & Development |
+| 🟢 | Design Phase |
+| 🔵 | Planning |
 
 > [!NOTE]  
 > Available links will take you to the corresponding public repositories.
