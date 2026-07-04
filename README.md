@@ -75,7 +75,7 @@ Develop deep expertise across the graphics stack, combining operating system int
 | Project | Status | Description |
 |:---------|:------:|:------------|
 | [**AtlasDS**](https://github.com/avieira-dev/atlas-ds.git) | Development | Collection of fundamental data structures implemented in pure **C**, emphasizing performance, memory awareness, and reusable low-level abstractions. |
-| [**Software Rasterizer**](https://github.com/avieira-dev/software-rasterizer.git) | Research & Development | CPU-based rasterizer written in modern **C++**, implementing triangle rasterization, clipping, perspective-correct interpolation, and the traditional graphics pipeline from scratch. |
+| [**Software Rasterizer**](https://github.com/avieira-dev/software-rasterizer.git) | Research and Development | CPU-based rasterizer written in modern **C++**, implementing triangle rasterization, clipping, perspective-correct interpolation, and the traditional graphics pipeline from scratch. |
 | **InteractUI** *(Private Repository)* | Planning | Immediate mode GUI library for **C++**, designed for engine editors and high-performance tooling. |
 | **Ptah** *(Private Repository)* | Research and Planning | Proprietary game engine focused on modular architecture, rendering systems, tooling, and complete control over the development pipeline. |
 | **Ada** *(Private Repository)* | Research and Planning | Educational x86-64 kernel written in **C** and **Assembly**, exploring memory management, interrupts, privilege levels, and hardware abstraction. |
