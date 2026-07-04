@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00ff41&height=260&section=header&text=Alexandre%20Vieira&fontSize=55&animation=fadeIn&fontColor=ffffff"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=260&section=header&text=Alexandre%20Vieira&fontSize=55&animation=fadeIn&fontColor=ffffff"/>
 </p>
 
 <h2 align="center"><strong>Engine Graphics Programmer</strong></h2>
@@ -125,5 +125,5 @@ Develop deep expertise across the graphics stack, combining operating system int
 </p>
 
 <p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,100:0d1117&height=100&section=footer&flip=true"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=100&section=footer&flip=true"/>
 </p>
