@@ -14,12 +14,6 @@
     Focused on operating systems, GPU architecture, and real-time rendering.
 </p>
 
-<p align="center">
-    <a href="https://www.linkedin.com/in/avieira-dev" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-00ff41?style=for-the-badge&logo=linkedin&logoColor=0d1117" alt="LinkedIn"/>
-    </a>
-</p>
-
 ---
 
 <h3 align="left">Engineering Focus</h3>
@@ -118,6 +112,16 @@ Develop deep expertise across the graphics stack, combining operating system int
 <p align="left">
     <img src="assets/icons/git.svg" width="60" title="Git" alt="Git"/>
     <img src="assets/icons/github.svg" width="60" title="GitHub" alt="GitHub"/>
+</p>
+
+---
+
+<h3 align="left">Connect</h3>
+
+<p align="left">
+    <a href="https://www.linkedin.com/in/avieira-dev" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-00ff41?style=for-the-badge&logo=linkedin&logoColor=0d1117" alt="LinkedIn"/>
+    </a>
 </p>
 
 <p align="center">
