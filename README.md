@@ -2,21 +2,21 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=080b0f&height=260&section=header&text=Alexandre%20Vieira&fontSize=55&animation=fadeIn&fontColor=ffffff"/>
 </p>
 
-<h2 align="center"><strong>Engine Graphics Programmer</strong></h2>
+<h2 align="center"><strong>Graphics & Engine Programmer</strong></h2>
 
 <p align="center">
     C • C++ • Assembly • OpenGL • Vulkan • Linux
 </p>
 
 <p align="center">
-    <em>"From kernel to framebuffer — owning the full graphics stack."</em><br><br>
+    <em>"From kernel to framebuffer — building the full graphics stack."</em><br><br>
     Building rendering pipelines, engine systems, and low-level graphics infrastructure.<br>
-    Focused on operating systems, GPU architecture, and real-time rendering.
+    Currently focused on operating systems, GPU architecture, and real-time rendering technologies.
 </p>
 
 ---
 
-<h3 align="left">Engineering Focus</h3>
+<h3 align="left">Engineering Interests</h3>
 
 <ul>
     <li>
@@ -29,7 +29,7 @@
     </li>
     <li>
         <strong>GPU Architecture</strong><br>
-        Studying how modern GPUs execute shaders, schedule workloads, and manage graphics memory through practical Vulkan development.
+        Exploring how modern GPUs execute shaders, schedule workloads, and manage graphics memory through practical Vulkan development.
     </li>
     <li>
         <strong>Shader Systems</strong><br>
@@ -47,42 +47,56 @@
 
 ---
 
-<h3 align="left">Long-Term Goal</h3>
+<h3 align="left">Graphics & Systems Projects</h3>
 
-Develop deep expertise across the graphics stack, combining operating system internals, GPU programming, rendering technology, and engine architecture. The objective is to build the low-level software that powers interactive graphics, whether through proprietary engines, graphics runtimes, or operating system components.
+<p>
+Projects that support my long-term goal of becoming a graphics and engine programmer.
+</p>
+
+| Project | Repository | Status | Description |
+|:--------|:----------:|:------:|:------------|
+| [**AtlasDS**](https://github.com/avieira-dev/atlas-ds.git) | Public | **Active Development** | Collection of fundamental data structures implemented in pure C, emphasizing memory layout, cache efficiency, and reusable low-level abstractions. |
+| [**Software Rasterizer**](https://github.com/avieira-dev/software-rasterizer.git) | Public | **Active Development** | CPU-based graphics pipeline implemented from scratch in modern C++, exploring rasterization, clipping, interpolation, and rendering algorithms. |
+| **Ptah** | Private | **Planning** | Modular cross-platform game engine focused on rendering architecture, tooling, asset pipelines, runtime systems, and editor development. |
+| **InteractUI** | Private | **Planning** | Immediate-mode GUI framework for C++, designed for engine editors and high-performance applications. |
+| **Drawxel** | Private | **Planning** | Pixel art and sprite animation editor emphasizing performance, precision, and efficient content creation. |
+| **Ada** | Private | **Planning** | Educational x86-64 operating system kernel written in C and Assembly, exploring memory management, interrupts, privilege levels, and hardware abstraction. |
+
+---
+
+<h3 align="left">Developer Tools</h3>
+
+<p>
+Utilities built to improve my own development workflow and productivity.
+</p>
+
+| Project | Repository | Status | Description |
+|:--------|:----------:|:------:|:------------|
+| [**mkproj**](https://github.com/avieira-dev/mkproj-cli.git) | Public | **Stable** | CLI utility for generating project structures from predefined templates. |
+| [**ctxgen**](https://github.com/avieira-dev/ctxgen.git) | Public | **Stable** | Command-line tool that bundles source code into a single text file for documentation, AI workflows, and code sharing. |
+| [**binconv**](https://github.com/avieira-dev/binconv.git) | Public | **Active Development** | Command-line utility for converting numbers between decimal, binary, hexadecimal, and other numeral systems. |
+| **akangatu** | Private | **Planning** | Local filesystem auditing tool that tracks and organizes workspace evolution over time. |
 
 ---
 
 <h3 align="left">Current Learning</h3>
 
-- OpenGL
+- Modern OpenGL
 - Vulkan
-- GPU Memory Management
 - Computer Graphics
+- GPU Architecture & Memory Management
 - Engine Architecture
 - Operating System Development
 
 ---
 
-<h3 align="left">Projects</h3>
+<h3 align="left">Long-Term Goal</h3>
 
-| Project | Status | Description |
-|:---------|:------:|:------------|
-| [**AtlasDS**](https://github.com/avieira-dev/atlas-ds.git) | Development | Collection of fundamental data structures implemented in pure **C**, emphasizing performance, memory awareness, and reusable low-level abstractions. |
-| [**Software Rasterizer**](https://github.com/avieira-dev/software-rasterizer.git) | Research and Development | CPU-based rasterizer written in modern **C++**, implementing triangle rasterization, clipping, perspective-correct interpolation, and the traditional graphics pipeline from scratch. |
-| **InteractUI** *(Private Repository)* | Planning | Immediate mode GUI library for **C++**, designed for engine editors and high-performance tooling. |
-| **Ptah** *(Private Repository)* | Research and Planning | Proprietary game engine focused on modular architecture, rendering systems, tooling, and complete control over the development pipeline. |
-| **Ada** *(Private Repository)* | Research and Planning | Educational x86-64 kernel written in **C** and **Assembly**, exploring memory management, interrupts, privilege levels, and hardware abstraction. |
-
-> [!NOTE]  
-> Public repositories are available through the links above.
-
-> [!IMPORTANT]  
-> Projects marked as **Private Repository** are currently under active development and will be published as they reach stable milestones.
+Build deep expertise across the graphics software stack—from operating systems and GPU architecture to rendering pipelines and engine development. My long-term objective is to design and implement the low-level technologies that power interactive graphics, whether in proprietary engines, graphics runtimes, or operating system components.
 
 ---
 
-<h3 align="left">Technology Stack</h3>
+<h3 align="left">Technologies & Tools</h3>
 
 <h4 align="left">Languages</h4>
 
