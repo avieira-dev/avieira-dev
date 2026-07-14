@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=080b0f&height=260&section=header&text=Alexandre%20Vieira&fontSize=55&animation=fadeIn&fontColor=ffffff"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=202D3D&height=260&section=header&text=Alexandre%20Vieira&fontSize=55&animation=fadeIn&fontColor=ffffff"/>
 </p>
 
 <h2 align="center"><strong>Graphics & Engine Programmer</strong></h2>
@@ -57,8 +57,8 @@ Projects that support my long-term goal of becoming a graphics and engine progra
 |:--------|:----------:|:------:|:------------|
 | [**AtlasDS**](https://github.com/avieira-dev/atlas-ds.git) | Public | **Active Development** | Collection of fundamental data structures implemented in pure C, emphasizing memory layout, cache efficiency, and reusable low-level abstractions. |
 | [**Software Rasterizer**](https://github.com/avieira-dev/software-rasterizer.git) | Public | **Active Development** | CPU-based graphics pipeline implemented from scratch in modern C++, exploring rasterization, clipping, interpolation, and rendering algorithms. |
-| **Ptah** | Private | **Planning** | Modular cross-platform game engine focused on rendering architecture, tooling, asset pipelines, runtime systems, and editor development. |
 | **InteractUI** | Private | **Planning** | Immediate-mode GUI framework for C++, designed for engine editors and high-performance applications. |
+| **Ptah** | Private | **Planning** | Modular cross-platform game engine focused on rendering architecture, tooling, asset pipelines, runtime systems, and editor development. |
 | **Drawxel** | Private | **Planning** | Pixel art and sprite animation editor emphasizing performance, precision, and efficient content creation. |
 | **Ada** | Private | **Planning** | Educational x86-64 operating system kernel written in C and Assembly, exploring memory management, interrupts, privilege levels, and hardware abstraction. |
 
@@ -139,5 +139,5 @@ Build deep expertise across the graphics software stack—from operating systems
 </p>
 
 <p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=080b0f&height=100&section=footer&flip=true"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=202D3D&height=100&section=footer&flip=true"/>
 </p>
