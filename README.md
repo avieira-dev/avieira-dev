@@ -104,7 +104,6 @@ Build deep expertise across the graphics software stack—from operating systems
     <img src="assets/icons/language-c.svg" width="60" title="C" alt="C"/>
     <img src="assets/icons/cpp.svg" width="60" title="C++" alt="C++"/>
     <img src="assets/icons/asm.svg" width="60" title="Assembly (x86/x86-64)" alt="Assembly"/>
-    <img src="assets/icons/python.svg" width="60" title="Python" alt="Python"/>
 </p>
 
 <h4 align="left">Graphics</h4>
@@ -126,6 +125,13 @@ Build deep expertise across the graphics software stack—from operating systems
 <p align="left">
     <img src="assets/icons/git.svg" width="60" title="Git" alt="Git"/>
     <img src="assets/icons/github.svg" width="60" title="GitHub" alt="GitHub"/>
+</p>
+
+<h4 align="left">Workflow & Tooling</h4>
+<p align="left"><em>Languages and tools that support my development workflow.</em></p>
+
+<p align="left">
+    <img src="assets/icons/python.svg" width="60" title="Python" alt="Python"/>
 </p>
 
 <h4 align="left">Exploring</h4>
