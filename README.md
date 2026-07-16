@@ -128,6 +128,15 @@ Build deep expertise across the graphics software stack—from operating systems
     <img src="assets/icons/github.svg" width="60" title="GitHub" alt="GitHub"/>
 </p>
 
+<h4 align="left">Exploring</h4>
+<p align="left"><em>Expanding into adjacent tools and ecosystems.</em></p>
+
+<p align="left">
+    <img src="assets/icons/rust.svg" width="60" title="Rust" alt="Rust"/>
+    <img src="assets/icons/unreal.svg" width="60" title="Unreal" alt="Unreal"/>
+    <img src="assets/icons/docker.svg" width="60" title="Docker" alt="Docker"/>
+</p>
+
 ---
 
 <h3 align="left">Connect</h3>
