@@ -117,7 +117,6 @@ Build deep expertise across the graphics software stack—from operating systems
 
 <p align="left">
     <img src="assets/icons/linux.svg" width="60" title="Linux" alt="Linux"/>
-    <img src="assets/icons/cmake.svg" width="60" title="CMake" alt="CMake"/>
 </p>
 
 <h4 align="left">Tools</h4>
@@ -125,6 +124,7 @@ Build deep expertise across the graphics software stack—from operating systems
 <p align="left">
     <img src="assets/icons/git.svg" width="60" title="Git" alt="Git"/>
     <img src="assets/icons/github.svg" width="60" title="GitHub" alt="GitHub"/>
+    <img src="assets/icons/cmake.svg" width="60" title="CMake" alt="CMake"/>
 </p>
 
 <h4 align="left">Workflow & Tooling</h4>
