@@ -2,34 +2,7 @@
 
 ---
 
-<h3 align="left">Engineering Interests</h3>
-
-<ul>
-    <li>
-        <strong>Data-Oriented Design</strong><br>
-        Designing cache-friendly, allocation-aware systems that maximize CPU and memory efficiency.
-    </li>
-    <li>
-        <strong>Operating Systems & Kernel Development</strong><br>
-        Building low-level software in C and Assembly with emphasis on memory management, interrupt handling, and hardware abstraction.
-    </li>
-    <li>
-        <strong>GPU Architecture</strong><br>
-        Exploring how modern GPUs execute shaders, schedule workloads, and manage graphics memory through practical Vulkan development.
-    </li>
-    <li>
-        <strong>Shader Systems</strong><br>
-        Developing GLSL shader pipelines for lighting, materials, and physically based rendering techniques.
-    </li>
-    <li>
-        <strong>Real-Time Rendering</strong><br>
-        Implementing rendering pipelines with OpenGL and Vulkan, including rasterization, batching, culling, and post-processing.
-    </li>
-    <li>
-        <strong>Game Engine Architecture</strong><br>
-        Designing modular engine systems covering rendering, tooling, asset pipelines, runtime architecture, and editor development.
-    </li>
-</ul>
+<img src="assets/banner/banner-interests.svg" alt="Engineering interests of Alexandre Vieira."/>
 
 ---
 
