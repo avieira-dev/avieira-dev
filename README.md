@@ -1,18 +1,4 @@
-<p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=575D64&height=260&section=header&text=Alexandre%20Vieira&fontSize=55&animation=fadeIn&fontColor=ffffff"/>
-</p>
-
-<h2 align="center"><strong>Graphics & Engine Programmer</strong></h2>
-
-<p align="center">
-    C • C++ • Assembly • OpenGL • Vulkan • Linux
-</p>
-
-<p align="center">
-    <em>"From kernel to framebuffer — building the full graphics stack."</em><br><br>
-    Building rendering pipelines, engine systems, and low-level graphics infrastructure.<br>
-    Currently focused on operating systems, GPU architecture, and real-time rendering technologies.
-</p>
+<img src="assets/banner/top-banner.svg" alt="Presentation banner for Alexandre Vieira, Graphics & Engine Programmer."/>
 
 ---
 
@@ -153,6 +139,4 @@ Build deep expertise across the graphics software stack—from operating systems
     </a>
 </p>
 
-<p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=575D64&height=100&section=footer&flip=true"/>
-</p>
+<img src="assets/banner/bottom-banner.svg" alt="Footer banner for Alexandre Vieira (avieira-dev), 2026."/>
