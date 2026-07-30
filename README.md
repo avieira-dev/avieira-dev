@@ -1,3 +1,4 @@
+<img src="assets/banner/top-banner.svg" alt="Presentation banner for Alexandre Vieira, Graphics & Engine Programmer."/>
 
 ---
 
