@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hello, I'm Alexandre 👋🏻
+# Hello there, I'm Alexandre 👋🏻
 
 ### Graphics & Engine Programmer
 
