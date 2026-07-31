@@ -2,7 +2,7 @@
 
 # Hello there, I'm Alexandre 👋🏻
 
-### Graphics & Engine Programmer
+### Graphics & Engine Developer
 
 Building graphics software from first principles.
 
