@@ -1,6 +1,6 @@
 <div align="center">
 
-# ALEXANDRE VIEIRA
+# Hello, I'm Alexandre 👋🏻
 
 ### Graphics & Engine Programmer
 
@@ -9,7 +9,7 @@ Building graphics software from first principles.
 <p>
     <img src="https://img.shields.io/badge/C-111827?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
     <img src="https://img.shields.io/badge/C++-111827?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
-    <img src="https://img.shields.io/badge/Assembly-111827?style=for-the-badge" alt="Assembly"/>
+    <img src="https://img.shields.io/badge/x86%20Assembly-111827?style=for-the-badge" alt="x86 Assembly"/>
     <img src="https://img.shields.io/badge/OpenGL-111827?style=for-the-badge&logo=opengl&logoColor=white" alt="OpenGL"/>
     <img src="https://img.shields.io/badge/Vulkan-111827?style=for-the-badge&logo=vulkan&logoColor=white" alt="Vulkan"/>
     <img src="https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux&logoColor=white" alt="Linux"/>
