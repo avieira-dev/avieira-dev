@@ -33,6 +33,7 @@ My work focuses on computer graphics, rendering pipelines, engine architecture, 
 |:--------|:----------:|:------:|:------------|
 | **AtlasDS** | [Public](https://github.com/avieira-dev/atlas-ds) | Active | Memory-oriented data structures library written in C. |
 | **Software Rasterizer** | [Public](https://github.com/avieira-dev/software-rasterizer) | Active | CPU renderer built from scratch to study the graphics pipeline. |
+| **GlyphKit** | Private | Active | From-scratch C++ library for font processing and glyph rasterization. |
 | **InteractUI** | Private | Planning | Immediate-mode GUI framework for C++ applications and engine tooling. |
 | **Ptah** | Private | Planning | Modular game engine focused on rendering, runtime systems, and editor architecture. |
 | **Drawxel** | Private | Planning | Pixel art and sprite animation editor emphasizing performance and precision. |
