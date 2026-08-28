@@ -44,7 +44,7 @@ My work focuses on computer graphics, rendering pipelines, engine architecture, 
 | **mkproj** | [Public](https://github.com/avieira-dev/mkproj-cli) | Stable | Generate project structures from reusable templates. |
 | **ctxgen** | [Public](https://github.com/avieira-dev/ctxgen) | Stable | Bundle source code into a single text file for documentation and AI workflows. |
 | **binconv** | [Public](https://github.com/avieira-dev/binconv) | Active | Command-line utility for numeral system conversion. |
-| **dosh** | Private | Active | A minimalist, lightweight terminal text editor focused on your needs. |
+| **Dosh** | Private | Active | A minimalist, lightweight terminal text editor focused on your needs. |
 | **akangatu** | Private | Planning | Local workspace auditing and filesystem history tool. |
 
 ---
@@ -90,6 +90,7 @@ My work focuses on computer graphics, rendering pipelines, engine architecture, 
     <img src="assets/icons/git.svg" width="56" alt="Git"/>
     <img src="assets/icons/github.svg" width="56" alt="GitHub"/>
     <img src="assets/icons/cmake.svg" width="56" alt="CMake"/>
+    <img src="assets/icons/docker.svg" width="56" alt="Docker"/>
 </p>
 
 ### Exploring
@@ -98,7 +99,6 @@ My work focuses on computer graphics, rendering pipelines, engine architecture, 
     <img src="assets/icons/rust.svg" width="56" alt="Rust"/>
     <img src="assets/icons/python.svg" width="56" alt="Python"/>
     <img src="assets/icons/go.svg" width="56" alt="Go (Golang)"/>
-    <img src="assets/icons/docker.svg" width="56" alt="Docker"/>
 </p>
 
 ---
