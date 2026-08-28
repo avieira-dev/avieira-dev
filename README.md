@@ -9,10 +9,8 @@ Building graphics software from first principles.
 <p>
     <img src="https://img.shields.io/badge/C-111827?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
     <img src="https://img.shields.io/badge/C++-111827?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
-    <img src="https://img.shields.io/badge/x86%20Assembly-111827?style=for-the-badge" alt="x86 Assembly"/>
     <img src="https://img.shields.io/badge/OpenGL-111827?style=for-the-badge&logo=opengl&logoColor=white" alt="OpenGL"/>
     <img src="https://img.shields.io/badge/Vulkan-111827?style=for-the-badge&logo=vulkan&logoColor=white" alt="Vulkan"/>
-    <img src="https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux&logoColor=white" alt="Linux"/>
 </p>
 
 </div>
@@ -46,6 +44,7 @@ My work focuses on computer graphics, rendering pipelines, engine architecture, 
 | **mkproj** | [Public](https://github.com/avieira-dev/mkproj-cli) | Stable | Generate project structures from reusable templates. |
 | **ctxgen** | [Public](https://github.com/avieira-dev/ctxgen) | Stable | Bundle source code into a single text file for documentation and AI workflows. |
 | **binconv** | [Public](https://github.com/avieira-dev/binconv) | Active | Command-line utility for numeral system conversion. |
+| **dosh** | Private | Active | A minimalist, lightweight terminal text editor focused on your needs. |
 | **akangatu** | Private | Planning | Local workspace auditing and filesystem history tool. |
 
 ---
@@ -91,14 +90,14 @@ My work focuses on computer graphics, rendering pipelines, engine architecture, 
     <img src="assets/icons/git.svg" width="56" alt="Git"/>
     <img src="assets/icons/github.svg" width="56" alt="GitHub"/>
     <img src="assets/icons/cmake.svg" width="56" alt="CMake"/>
-    <img src="assets/icons/python.svg" width="56" alt="Python"/>
 </p>
 
 ### Exploring
 
 <p>
     <img src="assets/icons/rust.svg" width="56" alt="Rust"/>
-    <img src="assets/icons/unreal.svg" width="56" alt="Unreal Engine"/>
+    <img src="assets/icons/python.svg" width="56" alt="Python"/>
+    <img src="assets/icons/go.svg" width="56" alt="Go (Golang)"/>
     <img src="assets/icons/docker.svg" width="56" alt="Docker"/>
 </p>
 
