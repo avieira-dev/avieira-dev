@@ -27,25 +27,25 @@ My work focuses on computer graphics, rendering pipelines, engine architecture, 
 
 ### Graphics & Systems
 
-| Project | Repository | Status | Description |
-|:--------|:----------:|:------:|:------------|
-| **AtlasDS** | [Public](https://github.com/avieira-dev/atlas-ds) | Active | Memory-oriented data structures library written in C. |
-| **Software Rasterizer** | [Public](https://github.com/avieira-dev/software-rasterizer) | Active | CPU renderer built from scratch to study the graphics pipeline. |
-| **GlyphKit** | Private | Active | From-scratch C++ library for font processing and glyph rasterization. |
-| **InteractUI** | Private | Planning | Immediate-mode GUI framework for C++ applications and engine tooling. |
-| **Ptah** | Private | Planning | Modular game engine focused on rendering, runtime systems, and editor architecture. |
-| **Drawxel** | Private | Planning | Pixel art and sprite animation editor emphasizing performance and precision. |
-| **Ada** | Private | Planning | Educational x86-64 operating system exploring low-level systems programming. |
+| Project | Repository | Status | Description | Language |
+|:--------|:----------:|:------:|:------------|:---------|
+| **AtlasDS** | [Public](https://github.com/avieira-dev/atlas-ds) | Active | Memory-oriented data structures library written in C. | **`C`** |
+| **Software Rasterizer** | [Public](https://github.com/avieira-dev/software-rasterizer) | Active | CPU renderer built from scratch to study the graphics pipeline. | **`C++`** |
+| **GlyphKit** | Private | Active | From-scratch C++ library for font processing and glyph rasterization. | **`C++`** |
+| **InteractUI** | Private | Active | Immediate-mode GUI framework for C++ applications and engine tooling. | **`C++`** |
+| **Ptah** | Private | Planning | Modular game engine focused on rendering, runtime systems, and editor architecture. | **`C++`** |
+| **Drawxel** | Private | Planning | Pixel art and sprite animation editor emphasizing performance and precision. | **`C++`** |
+| **Ada** | Private | Planning | An operating system kernel written in C and Assembly. | **`ASM`** / **`C`**|
 
 ### Developer Tools
 
-| Project | Repository | Status | Description |
-|:--------|:----------:|:------:|:------------|
-| **mkproj** | [Public](https://github.com/avieira-dev/mkproj-cli) | Stable | Generate project structures from reusable templates. |
-| **ctxgen** | [Public](https://github.com/avieira-dev/ctxgen) | Stable | Bundle source code into a single text file for documentation and AI workflows. |
-| **binconv** | [Public](https://github.com/avieira-dev/binconv) | Active | Command-line utility for numeral system conversion. |
-| **Dosh** | Private | Active | A minimalist, lightweight terminal text editor focused on your needs. |
-| **akangatu** | Private | Planning | Local workspace auditing and filesystem history tool. |
+| Project | Repository | Status | Description | Language |
+|:--------|:----------:|:------:|:------------|:---------|
+| **mkproj** | [Public](https://github.com/avieira-dev/mkproj-cli) | Stable | Generate project structures from reusable templates. | **`Python`** |
+| **ctxgen** | [Public](https://github.com/avieira-dev/ctxgen) | Stable | Bundle source code into a single text file for documentation and AI workflows. | **`Python`** |
+| **binconv** | [Public](https://github.com/avieira-dev/binconv) | Active | Command-line utility for numeral system conversion. | **`C`** |
+| **Dosh** | Private | Active | A minimalist, lightweight terminal text editor focused on your needs. | **`Go`** |
+| **akangatu** | Private | Planning | Local workspace auditing and filesystem history tool. | **`C++`** |
 
 ---
 
