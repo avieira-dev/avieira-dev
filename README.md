@@ -68,6 +68,7 @@ My work focuses on computer graphics, rendering pipelines, engine architecture, 
 <p>
     <img src="assets/icons/language-c.svg" width="56" alt="C"/>
     <img src="assets/icons/cpp.svg" width="56" alt="C++"/>
+    <img src="assets/icons/rust.svg" width="56" alt="Rust"/>
     <img src="assets/icons/asm.svg" width="56" alt="Assembly"/>
 </p>
 
@@ -96,9 +97,9 @@ My work focuses on computer graphics, rendering pipelines, engine architecture, 
 ### Exploring
 
 <p>
-    <img src="assets/icons/rust.svg" width="56" alt="Rust"/>
-    <img src="assets/icons/python.svg" width="56" alt="Python"/>
     <img src="assets/icons/go.svg" width="56" alt="Go (Golang)"/>
+    <img src="assets/icons/python.svg" width="56" alt="Python"/>
+    <img src="assets/icons/java.svg" width="56" alt="Java"/>
 </p>
 
 ---
