@@ -2,88 +2,74 @@
 
 # Hello there, I'm Alexandre 👋🏻
 
-### Graphics & Engine Developer
+### Machine Learning Engineer
 
-Building graphics software from first principles.
+Exploring machine learning, learning algorithms, neural networks, optimization, and model training.
 
 <p>
+    <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> 
+    <img src="https://img.shields.io/badge/C++-111827?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/> 
     <img src="https://img.shields.io/badge/C-111827?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-    <img src="https://img.shields.io/badge/C++-111827?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
-    <img src="https://img.shields.io/badge/OpenGL-111827?style=for-the-badge&logo=opengl&logoColor=white" alt="OpenGL"/>
-    <img src="https://img.shields.io/badge/Vulkan-111827?style=for-the-badge&logo=vulkan&logoColor=white" alt="Vulkan"/>
 </p>
 
 </div>
 
 ## About
 
-I'm a Computer Engineering student passionate about building graphics software from first principles.
+I'm a Computer Engineering student focused on Machine Learning, with particular interest in learning algorithms, neural networks, optimization, model training, and evaluation.
 
-My work focuses on computer graphics, rendering pipelines, engine architecture, GPU programming, and systems programming. Through long-term personal projects, I explore how modern graphics software is designed—from memory management and low-level abstractions to real-time rendering.
+I enjoy problems that combine programming, mathematics, algorithms, and experimentation, with an emphasis on understanding how models learn and how training methods can be designed and improved.
 
----
-
-## Featured Projects
-
-### Graphics & Systems
-
-| Project | Repository | Status | Description | Language |
-|:--------|:----------:|:------:|:------------|:---------|
-| **AtlasDS** | [Public](https://github.com/avieira-dev/atlas-ds) | Active | Memory-oriented data structures library written in C. | **`C`** |
-| **Software Rasterizer** | [Public](https://github.com/avieira-dev/software-rasterizer) | Active | CPU renderer built from scratch to study the graphics pipeline. | **`C++`** |
-| **GlyphKit** | Private | Active | From-scratch C++ library for font processing and glyph rasterization. | **`C++`** |
-| **InteractUI** | Private | Active | Immediate-mode GUI framework for C++ applications and engine tooling. | **`C++`** |
-| **Ptah** | Private | Planning | Modular game engine focused on rendering, runtime systems, and editor architecture. | **`C++`** |
-| **Drawxel** | Private | Planning | Pixel art and sprite animation editor emphasizing performance and precision. | **`C++`** |
-| **Ada** | Private | Planning | An operating system kernel written in C and Assembly. | **`ASM`** / **`C`**|
-
-### Developer Tools
-
-| Project | Repository | Status | Description | Language |
-|:--------|:----------:|:------:|:------------|:---------|
-| **mkproj** | [Public](https://github.com/avieira-dev/mkproj-cli) | Stable | Generate project structures from reusable templates. | **`Python`** |
-| **ctxgen** | [Public](https://github.com/avieira-dev/ctxgen) | Stable | Bundle source code into a single text file for documentation and AI workflows. | **`Python`** |
-| **binconv** | [Public](https://github.com/avieira-dev/binconv) | Active | Command-line utility for numeral system conversion. | **`C`** |
-| **Dosh** | Private | Active | A minimalist, lightweight terminal text editor focused on your needs. | **`Go`** |
-| **akangatu** | Private | Planning | Local workspace auditing and filesystem history tool. | **`C++`** |
+My previous work includes computer graphics, systems programming, low-level software, and developer tools. This background gave me a strong foundation in algorithms, performance, and building software from first principles.
 
 ---
 
 ## Current Focus 
 
-- Computer Graphics 
-- Rendering Pipelines 
-- GPU Architecture 
-- Engine Architecture 
-- Operating Systems 
-- Modern OpenGL 
-- Vulkan
+- Machine Learning
+- Learning Algorithms
+- Neural Networks
+- Optimization
+- Model Training
+- Model Evaluation
+- Computational Mathematics
+
+---
+
+## Projects
+
+### Machine Learning
+
+> [!NOTE]  
+> Projects coming as I progress through my ML studies and development.
+
+### Previous Work
+
+| Project     | Repository                                          | Status | Description                                                                    | Language     |
+|:------------|:----------------------------------------------------|:-------|:-------------------------------------------------------------------------------|:-------------|
+| **AtlasDS** |[Public](https://github.com/avieira-dev/atlas-ds)    | Active | Memory-oriented data structures library.                                       | **`C`**      |
+| **mkproj**  | [Public](https://github.com/avieira-dev/mkproj-cli) | Stable | Generate project structures from reusable templates.                           | **`Python`** |
+| **ctxgen**  | [Public](https://github.com/avieira-dev/ctxgen)     | Stable | Bundle source code into a single text file for documentation and AI workflows. | **`Python`** |
+| **binconv** | [Public](https://github.com/avieira-dev/binconv)    | Active | Command-line utility for numeral system conversion.                            | **`C`**      |
 
 ---
 
 ## Tech Stack
 
-### Languages
+### Machine Learning
 
 <p>
-    <img src="assets/icons/language-c.svg" width="56" alt="C"/>
+    <img src="assets/icons/python.svg" width="56" alt="Python"/>
     <img src="assets/icons/cpp.svg" width="56" alt="C++"/>
-    <img src="assets/icons/rust.svg" width="56" alt="Rust"/>
-    <img src="assets/icons/asm.svg" width="56" alt="Assembly"/>
 </p>
 
-### Graphics
-
-<p>
-    <img src="assets/icons/opengl.svg" width="56" alt="OpenGL"/>
-    <img src="assets/icons/vulkan.svg" width="56" alt="Vulkan"/>
-</p>
 
 ### Systems
 
 <p>
     <img src="assets/icons/linux.svg" width="56" alt="Linux"/>
 </p>
+
 
 ### Tools
 
@@ -94,11 +80,14 @@ My work focuses on computer graphics, rendering pipelines, engine architecture, 
     <img src="assets/icons/docker.svg" width="56" alt="Docker"/>
 </p>
 
-### Exploring
+
+### Exploration
 
 <p>
+    <img src="assets/icons/language-c.svg" width="56" alt="C"/>
+    <img src="assets/icons/rust.svg" width="56" alt="Rust"/>
+    <img src="assets/icons/asm.svg" width="56" alt="Assembly"/>
     <img src="assets/icons/go.svg" width="56" alt="Go (Golang)"/>
-    <img src="assets/icons/python.svg" width="56" alt="Python"/>
     <img src="assets/icons/java.svg" width="56" alt="Java"/>
 </p>
 
@@ -106,9 +95,9 @@ My work focuses on computer graphics, rendering pipelines, engine architecture, 
 
 ## Philosophy
 
-I enjoy building software from first principles.
+I enjoy understanding how things work beneath the abstractions.
 
-Rather than relying solely on existing frameworks, I prefer implementing the underlying systems myself to better understand how they work. My projects prioritize simplicity, performance, maintainability, and long-term learning.
+I prefer learning by building, experimenting, and studying the mechanisms behind the software I use. I value technical depth, simplicity, and a strong understanding of the problems behind the systems I build.
 
 ---
 
