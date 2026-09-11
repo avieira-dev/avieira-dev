@@ -64,10 +64,26 @@ My previous work includes computer graphics, systems programming, low-level soft
 </p>
 
 
+### Databases
+
+<p>
+    <img src="assets/icons/mysql.svg" width="56" alt="MySQL"/>
+    <img src="assets/icons/postgresql.svg" width="56" alt="PostgreSQL"/>
+</p>
+
+
 ### Systems
 
 <p>
     <img src="assets/icons/linux.svg" width="56" alt="Linux"/>
+</p>
+
+
+### Low-Level
+
+<p>
+    <img src="assets/icons/language-c.svg" width="56" alt="C"/>
+    <img src="assets/icons/rust.svg" width="56" alt="Rust"/>
 </p>
 
 
@@ -84,11 +100,7 @@ My previous work includes computer graphics, systems programming, low-level soft
 ### Exploration
 
 <p>
-    <img src="assets/icons/language-c.svg" width="56" alt="C"/>
-    <img src="assets/icons/rust.svg" width="56" alt="Rust"/>
     <img src="assets/icons/asm.svg" width="56" alt="Assembly"/>
-    <img src="assets/icons/go.svg" width="56" alt="Go (Golang)"/>
-    <img src="assets/icons/java.svg" width="56" alt="Java"/>
 </p>
 
 ---
