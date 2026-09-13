@@ -61,48 +61,48 @@ My previous work includes computer graphics, systems programming, low-level soft
 ### Machine Learning
 
 <p>
-    <img src="assets/icons/python.svg" width="56" alt="Python"/>
-    <img src="assets/icons/cpp.svg" width="56" alt="C++"/>
+    <img src="assets/icons/python.svg" width="56" alt="Python" title="Python"/>
+    <img src="assets/icons/cpp.svg" width="56" alt="C++" title="C++"/>
 </p>
 
 
 ### Databases
 
 <p>
-    <img src="assets/icons/mysql.svg" width="56" alt="MySQL"/>
-    <img src="assets/icons/postgresql.svg" width="56" alt="PostgreSQL"/>
+    <img src="assets/icons/mysql.svg" width="56" alt="MySQL" title="MySQL"/>
+    <img src="assets/icons/postgresql.svg" width="56" alt="PostgreSQL" title="PostgreSQL"/>
 </p>
 
 
 ### Systems
 
 <p>
-    <img src="assets/icons/linux.svg" width="56" alt="Linux"/>
+    <img src="assets/icons/linux.svg" width="56" alt="Linux" title="Linux"/>
 </p>
 
 
 ### Low-Level
 
 <p>
-    <img src="assets/icons/language-c.svg" width="56" alt="C"/>
-    <img src="assets/icons/rust.svg" width="56" alt="Rust"/>
+    <img src="assets/icons/language-c.svg" width="56" alt="C" title="C Language"/>
+    <img src="assets/icons/rust.svg" width="56" alt="Rust" title="Rust"/>
 </p>
 
 
 ### Tools
 
 <p>
-    <img src="assets/icons/git.svg" width="56" alt="Git"/>
-    <img src="assets/icons/github.svg" width="56" alt="GitHub"/>
-    <img src="assets/icons/cmake.svg" width="56" alt="CMake"/>
-    <img src="assets/icons/docker.svg" width="56" alt="Docker"/>
+    <img src="assets/icons/git.svg" width="56" alt="Git" title="Git"/>
+    <img src="assets/icons/github.svg" width="56" alt="GitHub" title="GitHub"/>
+    <img src="assets/icons/cmake.svg" width="56" alt="CMake" title="CMake"/>
+    <img src="assets/icons/docker.svg" width="56" alt="Docker" title="Docker"/>
 </p>
 
 
 ### Exploration
 
 <p>
-    <img src="assets/icons/asm.svg" width="56" alt="Assembly"/>
+    <img src="assets/icons/asm.svg" width="56" alt="Assembly" title="Assembly"/>
 </p>
 
 ---
