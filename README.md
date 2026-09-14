@@ -49,9 +49,10 @@ My previous work includes computer graphics, systems programming, low-level soft
 
 | Project     | Repository                                          | Status | Description                                                                    | Language     |
 |:------------|:----------------------------------------------------|:-------|:-------------------------------------------------------------------------------|:-------------|
-| **AtlasDS** |[Public](https://github.com/avieira-dev/atlas-ds)    | Active | Memory-oriented data structures library.                                       | **`C`**      |
 | **mkproj**  | [Public](https://github.com/avieira-dev/mkproj-cli) | Stable | Generate project structures from reusable templates.                           | **`Python`** |
 | **ctxgen**  | [Public](https://github.com/avieira-dev/ctxgen)     | Stable | Bundle source code into a single text file for documentation and AI workflows. | **`Python`** |
+| **dosh**    | [Public](https://github.com/avieira-dev/dosh)       | Active | A minimalist, lightweight terminal text editor focused on your needs           | **`Go`**     |
+| **AtlasDS** |[Public](https://github.com/avieira-dev/atlas-ds)    | Active | Memory-oriented data structures library.                                       | **`C`**      |
 | **binconv** | [Public](https://github.com/avieira-dev/binconv)    | Active | Command-line utility for numeral system conversion.                            | **`C`**      |
 
 ---
@@ -103,6 +104,7 @@ My previous work includes computer graphics, systems programming, low-level soft
 
 <p>
     <img src="assets/icons/asm.svg" width="56" alt="Assembly" title="Assembly"/>
+    <img src="assets/icons/go.svg" width="56" alt="Go" title="Go"/>
 </p>
 
 ---
