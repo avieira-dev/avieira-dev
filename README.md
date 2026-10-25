@@ -4,36 +4,27 @@
 
 ### Machine Learning Engineer
 
-Exploring machine learning, learning algorithms, neural networks, optimization, and model training.
-
-<p>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> 
-    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-</p>
+Exploring data science, machine learning, learning algorithms, neural networks, optimization, and model evaluation.
 
 </div>
 
+---
+
 ## About
 
-I'm a Computer Engineering student focused on Machine Learning, with particular interest in learning algorithms, neural networks, optimization, model training, and evaluation.
-
-I enjoy problems that combine programming, mathematics, algorithms, and experimentation, with an emphasis on understanding how models learn and how training methods can be designed and improved.
-
-My previous work includes computer graphics, systems programming, low-level software, and developer tools. This background gave me a strong foundation in algorithms, performance, and building software from first principles.
+I'm a Computer Engineering student focused on Data Science and Machine Learning, with particular interests in learning algorithms, neural networks, optimization, and model training and evaluation.
 
 ---
 
-## Current Focus 
+## Current Focus
 
-- Machine Learning
-- Learning Algorithms
-- Neural Networks
+- Data Analysis and Exploratory Data Analysis (EDA)
+- Statistics and Computational Mathematics
+- Machine Learning fundamentals
+- Learning algorithms and neural networks
+- Model training and evaluation
 - Optimization
-- Model Training
-- Model Evaluation
-- Computational Mathematics
+- Practical experimentation and model development
 
 ---
 
@@ -58,61 +49,56 @@ My previous work includes computer graphics, systems programming, low-level soft
 
 ## Tech Stack
 
-### Machine Learning
+### Data Science & Machine Learning
 
 <p>
-    <img src="assets/icons/python.svg" width="56" alt="Python" title="Python"/>
-    <img src="assets/icons/cpp.svg" width="56" alt="C++" title="C++"/>
+  <img src="assets/icons/python.svg" width="56" alt="Python" title="Python"/>
+  <img src="assets/icons/numpy.svg" width="56" alt="NumPy" title="NumPy"/>
+  <img src="assets/icons/pandas.svg" width="56" alt="pandas" title="pandas"/>
+  <img src="assets/icons/matplotlib.svg" width="56" alt="Matplotlib" title="Matplotlib"/>
+  <img src="assets/icons/seaborn.svg" width="56" alt="Seaborn" title="Seaborn"/>
+  <img src="assets/icons/scikit-learn.svg" width="56" alt="scikit-learn" title="scikit-learn"/>
 </p>
-
 
 ### Databases
 
 <p>
-    <img src="assets/icons/mysql.svg" width="56" alt="MySQL" title="MySQL"/>
-    <img src="assets/icons/postgresql.svg" width="56" alt="PostgreSQL" title="PostgreSQL"/>
+  <img src="assets/icons/mysql.svg" width="56" alt="MySQL" title="MySQL"/>
+  <img src="assets/icons/postgresql.svg" width="56" alt="PostgreSQL" title="PostgreSQL"/>
 </p>
 
-
-### Systems
+### Systems Programming
 
 <p>
-    <img src="assets/icons/linux.svg" width="56" alt="Linux" title="Linux"/>
+  <img src="assets/icons/language-c.svg" width="56" alt="C" title="C"/>
+  <img src="assets/icons/cpp.svg" width="56" alt="C++" title="C++"/>
+  <img src="assets/icons/rust.svg" width="56" alt="Rust" title="Rust"/>
+  <img src="assets/icons/go.svg" width="56" alt="Go" title="Go"/>
 </p>
 
-
-### Low-Level
+### Development Tools
 
 <p>
-    <img src="assets/icons/language-c.svg" width="56" alt="C" title="C Language"/>
-    <img src="assets/icons/rust.svg" width="56" alt="Rust" title="Rust"/>
+  <img src="assets/icons/git.svg" width="56" alt="Git" title="Git"/>
+  <img src="assets/icons/github.svg" width="56" alt="GitHub" title="GitHub"/>
+  <img src="assets/icons/cmake.svg" width="56" alt="CMake" title="CMake"/>
+  <img src="assets/icons/docker.svg" width="56" alt="Docker" title="Docker"/>
+  <img src="assets/icons/linux.svg" width="56" alt="Linux" title="Linux"/>
 </p>
 
-
-### Tools
-
-<p>
-    <img src="assets/icons/git.svg" width="56" alt="Git" title="Git"/>
-    <img src="assets/icons/github.svg" width="56" alt="GitHub" title="GitHub"/>
-    <img src="assets/icons/cmake.svg" width="56" alt="CMake" title="CMake"/>
-    <img src="assets/icons/docker.svg" width="56" alt="Docker" title="Docker"/>
-</p>
-
-
-### Exploration
+### Currently Exploring
 
 <p>
-    <img src="assets/icons/asm.svg" width="56" alt="Assembly" title="Assembly"/>
-    <img src="assets/icons/go.svg" width="56" alt="Go" title="Go"/>
+  <img src="assets/icons/asm.svg" width="56" alt="Assembly" title="Assembly"/>
 </p>
 
 ---
 
 ## Philosophy
 
-I enjoy understanding how things work beneath the abstractions.
+I believe in learning through experimentation, critical thinking, and a deep understanding of the problems I aim to solve.
 
-I prefer learning by building, experimenting, and studying the mechanisms behind the software I use. I value technical depth, simplicity, and a strong understanding of the problems behind the systems I build.
+I value mathematical foundations, analytical reasoning, and practical implementation, seeking to understand not only how things work, but also why they work.
 
 ---
 
