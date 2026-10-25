@@ -54,10 +54,10 @@ I'm a Computer Engineering student focused on Data Science and Machine Learning,
 <p>
   <img src="assets/icons/python.svg" width="56" alt="Python" title="Python"/>
   <img src="assets/icons/numpy.svg" width="56" alt="NumPy" title="NumPy"/>
-  <img src="assets/icons/pandas.svg" width="56" alt="pandas" title="pandas"/>
+  <img src="assets/icons/pandas.svg" width="56" alt="Pandas" title="Pandas"/>
   <img src="assets/icons/matplotlib.svg" width="56" alt="Matplotlib" title="Matplotlib"/>
   <img src="assets/icons/seaborn.svg" width="56" alt="Seaborn" title="Seaborn"/>
-  <img src="assets/icons/scikit-learn.svg" width="56" alt="scikit-learn" title="scikit-learn"/>
+  <img src="assets/icons/scikit-learn.svg" width="56" alt="Scikit-learn" title="Scikit-learn"/>
 </p>
 
 ### Databases
