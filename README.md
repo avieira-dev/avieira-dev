@@ -2,7 +2,7 @@
 
 # Hello there, I'm Alexandre 👋🏻
 
-### Machine Learning Engineer
+### Data Science & Machine Learning Engineering
 
 Exploring data science, machine learning, learning algorithms, neural networks, optimization, and model evaluation.
 
