@@ -45,34 +45,39 @@ I'm a Computer Engineering student focused on Systems Programming, with particul
 ### Systems Programming
 
 <p>
-  <img src="assets/icons/language-c.svg" width="56" alt="C" title="C"/>
-  <img src="assets/icons/cpp.svg" width="56" alt="C++" title="C++"/>
-  <img src="assets/icons/rust.svg" width="56" alt="Rust" title="Rust"/>
-  <img src="assets/icons/go.svg" width="56" alt="Go" title="Go"/>
+    <img src="assets/icons/language-c.svg" width="56" alt="C" title="C"/>
+    <img src="assets/icons/cpp.svg" width="56" alt="C++" title="C++"/>
+    <img src="assets/icons/rust.svg" width="56" alt="Rust" title="Rust"/>
 </p>
 
-### Scripting & Tooling
+### General Purpose & Scripting
 
 <p>
-  <img src="assets/icons/python.svg" width="56" alt="Python" title="Python"/>
-  <img src="assets/icons/git.svg" width="56" alt="Git" title="Git"/>
-  <img src="assets/icons/github.svg" width="56" alt="GitHub" title="GitHub"/>
-  <img src="assets/icons/cmake.svg" width="56" alt="CMake" title="CMake"/>
-  <img src="assets/icons/docker.svg" width="56" alt="Docker" title="Docker"/>
-  <img src="assets/icons/linux.svg" width="56" alt="Linux" title="Linux"/>
+    <img src="assets/icons/go.svg" width="56" alt="Go" title="Go"/>
+    <img src="assets/icons/python.svg" width="56" alt="Python" title="Python"/>
+</p>
+
+### Tools & Environment
+
+<p>
+    <img src="assets/icons/linux.svg" width="56" alt="Linux" title="Linux"/>
+    <img src="assets/icons/git.svg" width="56" alt="Git" title="Git"/>
+    <img src="assets/icons/github.svg" width="56" alt="GitHub" title="GitHub"/>
+    <img src="assets/icons/cmake.svg" width="56" alt="CMake" title="CMake"/>
+    <img src="assets/icons/docker.svg" width="56" alt="Docker" title="Docker"/>
 </p>
 
 ### Databases
 
 <p>
-  <img src="assets/icons/mysql.svg" width="56" alt="MySQL" title="MySQL"/>
-  <img src="assets/icons/postgresql.svg" width="56" alt="PostgreSQL" title="PostgreSQL"/>
+    <img src="assets/icons/mysql.svg" width="56" alt="MySQL" title="MySQL"/>
+    <img src="assets/icons/postgresql.svg" width="56" alt="PostgreSQL" title="PostgreSQL"/>
 </p>
 
 ### Currently Exploring
 
 <p>
-  <img src="assets/icons/asm.svg" width="56" alt="Assembly" title="Assembly"/>
+    <img src="assets/icons/asm.svg" width="56" alt="Assembly" title="Assembly"/>
 </p>
 
 ---
